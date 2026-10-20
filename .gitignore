@@ -1,0 +1,16 @@
+# Verilator build output
+obj_dir/
+
+# Waveforms (regenerated every run)
+*.vcd
+*.fst
+
+# GTKWave save files (remove this line if you want to keep saved views)
+*.gtkw
+
+# Editor / OS clutter
+.vscode/settings.json
+*.swp
+*~
+.DS_Store
+Thumbs.db
